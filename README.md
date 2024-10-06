@@ -28,7 +28,7 @@ You can find me anywhere on: [https://linktr.ee/filipnemec](https://linktr.ee/fi
 
 </details>
 
-### [2. Judo Grand Prix Slovakia | Banská Bysrica - Zvolen](https://judogp.sk/)
+### [2. Judo Grand Prix Slovakia | Banská Bystrica - Zvolen](https://judogp.sk/)
 
 <details>
 <summary>👇 Read project details...</summary>
