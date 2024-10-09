@@ -22,6 +22,7 @@ You can find me anywhere on: [https://linktr.ee/filipnemec](https://linktr.ee/fi
 <br>
 
 - portfolio project that I'm curretly working on 🟢
+- homepage design of online shoe boutique
 - my first programmed project
 - Git repository with full commit history is publicly available on my GitHub profile, or right [here](https://github.com/filipnemec369/shoestore)
 - view website live [here](https://shoestore-b43.pages.dev/)
@@ -37,6 +38,7 @@ You can find me anywhere on: [https://linktr.ee/filipnemec](https://linktr.ee/fi
 
 - website is part of my portfolio, but it's REAL and OFFICIAL website of Slovak Judo Competition
 - built with WordPress and Elementor Page Builder with free tools and few lines of extra CSS code
+- view website live [here](https://judogp.sk/)
 
 </details>
 
