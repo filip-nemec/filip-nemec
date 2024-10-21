@@ -27,7 +27,7 @@ You can find me anywhere on: [https://linktr.ee/filipnemec](https://linktr.ee/fi
 
 </details>
 
-### [2. Judo Grand Prix Slovakia | Banská Bystrica - Zvolen](https://judogp.sk/)
+### [2. Judo Grand Prix Slovakia | Banská Bystrica - Zvolen](https://jugograndprix.pages.dev/)
 
 <details>
 <summary>👇 Read project details...</summary>
@@ -36,7 +36,7 @@ You can find me anywhere on: [https://linktr.ee/filipnemec](https://linktr.ee/fi
 
 - website is part of my portfolio, but it's REAL and OFFICIAL website of Slovak Judo Competition
 - built with WordPress and Elementor Page Builder with free tools and few lines of extra CSS code
-- view website live [here](https://judogp.sk/)
+- view website live [here](https://jugograndprix.pages.dev/)
 
 </details>
 
