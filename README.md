@@ -34,7 +34,8 @@ You can find me anywhere on: [https://linktr.ee/filipnemec](https://linktr.ee/fi
 
 <br>
 
-- website is part of my portfolio, but it's REAL and OFFICIAL website of Slovak Judo Competition
+- website of Slovak Judo Competition
+- gallery is currently not working because of CloudFlare hosting, but normally it's working
 - built with WordPress and Elementor Page Builder with free tools and few lines of extra CSS code
 - view website live [here](https://jugograndprix.pages.dev/)
 
