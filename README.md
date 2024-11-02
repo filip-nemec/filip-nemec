@@ -78,8 +78,8 @@ You can find me anywhere on: [https://linktr.ee/filipnemec](https://linktr.ee/fi
 ### 🔬 What am I learning right now / want to learn?
 
 <div align="left">
+<img max-height="100%" width="35px" style="padding-right:10px;" src="php-bw.svg" title="php"/>
 <img max-height="100%" width="35px" style="padding-right:10px;" src="javascript-bw.svg" title="JavaScript"/>
 <img max-height="100%" width="35px" style="padding-right:10px;" src="mysql-bw.svg" title="MySQL"/>
-<img max-height="100%" width="35px" style="padding-right:10px;" src="php-bw.svg" title="php"/>
 <img max-height="100%" width="35px" style="padding-right:10px;" src="jquery-bw.svg" title="jQuery"/>
 </div>
