@@ -75,7 +75,7 @@ You can find me anywhere on: [https://linktr.ee/filipnemec](https://linktr.ee/fi
 <img max-height="100%" width="35px" style="padding-right:10px;" src="affinity-photo-icon.svg" title="Affinity Photo"/>
 </div>
 
-### 🔬 What am I learning right now?
+### 📚 What am I learning right now?
 
 <div align="left">
 <img max-height="100%" width="35px" style="padding-right:10px;" src="php-bw.svg" title="php"/>
