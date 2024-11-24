@@ -12,7 +12,7 @@ You can find me anywhere on: [https://linktr.ee/filipnemec](https://linktr.ee/fi
 
 ### 🎨 My portfolio projects
 
-### [1. Shoe Store | Online Boutique](https://shoe-store-42v.pages.dev/)
+### [1. Prestige | Online Boutique](https://shoe-store-42v.pages.dev/)
 
 <details>
 <summary>👇 Read project details...</summary>
@@ -20,8 +20,7 @@ You can find me anywhere on: [https://linktr.ee/filipnemec](https://linktr.ee/fi
 <br>
 
 - portfolio project that I'm curretly working on 🟢
-- homepage design of online shoe boutique
-- my first programmed project
+- homepage design of online boutique
 - Git repository with full commit history is publicly available on my GitHub profile, or right [here](https://github.com/filip-nemec/shoestore)
 - view website live [here](https://shoe-store-42v.pages.dev/)
 
