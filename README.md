@@ -12,7 +12,7 @@ You can find me anywhere on: [https://linktr.ee/filipnemec](https://linktr.ee/fi
 
 ### 🎨 My portfolio projects
 
-### [1. Prestige | Online Boutique](https://prestige-5cf.pages.dev/))
+### [1. Prestige | Online Boutique](https://prestige-5cf.pages.dev/)
 
 <details>
 <summary>👇 Read project details...</summary>
