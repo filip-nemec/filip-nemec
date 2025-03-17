@@ -10,52 +10,6 @@ You can find me anywhere on: [https://linktr.ee/filipnemec](https://linktr.ee/fi
 
 #
 
-### 🎨 My portfolio projects
-
-### [1. Prestige | Online Boutique](https://prestige-5cf.pages.dev/)
-
-<details>
-<summary>👇 Read project details...</summary>
-
-<br>
-
-- portfolio project that I'm curretly working on 🟢
-- homepage design of online boutique
-- Git repository with full commit history is publicly available on my GitHub profile, or right [here](https://github.com/filip-nemec/prestige)
-- view website live [here](https://prestige-5cf.pages.dev/)
-
-</details>
-
-### [2. Judo Grand Prix Slovakia | Banská Bystrica - Zvolen](https://jugograndprix.pages.dev/)
-
-<details>
-<summary>👇 Read project details...</summary>
-
-<br>
-
-- website of Slovak Judo Competition
-- gallery is currently not working because of CloudFlare hosting, but normally it's working
-- built with WordPress and Elementor Page Builder with free tools and few lines of extra CSS code
-- view website live [here](https://jugograndprix.pages.dev/)
-
-</details>
-
-### [3. Blog](https://designspace.sk)
-
-<details>
-<summary>👇 Read project details...</summary>
-
-<br>
-
-- my first ever website, built from scratch, full responsive
-- built with WordPress and Elementor Page Builder
-- I tried to replicate the original website design ([denofgeek.com](https://www.denofgeek.com/)) as best as possible for me without a lot of coding using WordPress with mostly free tools (except for a few)
-- view website live [here](https://designspace.sk)
-
-</details>
-
-#
-
 ### 🛠️ Languages and Tools I use
 
 <div align="left">
