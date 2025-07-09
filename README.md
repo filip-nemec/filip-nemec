@@ -1,6 +1,5 @@
 Hi 👋, I'm Filip Němec and I'm Frontend Web Developer from Slovakia 🇸🇰. </br>
-I'm always open to learn new technologies, but right now I'm focused on the front-end. </br>
-Feel free to check out my portfolio projects 👇.
+I'm always open to learn new technologies, but right now I'm focused on the front-end.
 
 #
 
